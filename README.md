@@ -2,7 +2,7 @@
 
 Welcome to the TypeScript Cookbook - a collection of TypeScript recipes that showcase the awesome power of TypeScript!  This book was created to give folks several patterns of development when using TypeScript in their day-to-day.
 
-It is most definitely a work in progress - what you see now is only a small part of what the book will eventually become.  Right now it's currently not very well organized.  As the book grows, things might be moved around, but the core objective of the book will remain the same.
+The book is most definitely a work in progress - what you see now is only a small part of what the book will eventually become.  Right now it's currently not very well organized.  As the book grows, things might be moved around, but the core objective of the book will remain the same.
 
 ### New to TypeScript?
 
