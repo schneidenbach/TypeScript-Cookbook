@@ -6,7 +6,7 @@ The book is most definitely a work in progress - what you see now is only a smal
 
 ### Ready to read?
 
-#### [Dive right in!](https://schneidenbach.gitbooks.io/typescript-cookbook/)
+Itching to learn some useful TypeScript tips and tricks?  [Dive right in!](https://schneidenbach.gitbooks.io/typescript-cookbook/getting-started.html)
 
 ### New to TypeScript?
 
